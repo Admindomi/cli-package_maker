@@ -4,6 +4,7 @@
 ##########################################################
 
 make a .deb of any programme you want to transport
+crée un .deb de n'importe lequel de vos programme. 
 
 cli-package_maker will create a file.deb of any programme you want to install/transport in any UNIX plateforme.
 
