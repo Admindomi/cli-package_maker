@@ -1,6 +1,6 @@
 # cli-package_maker
 ##########################################################
-                          DECRIPTION
+<bR>                          DECRIPTION
 ##########################################################
 
 make a .deb of any programme you want to transport
