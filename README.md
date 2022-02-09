@@ -1,15 +1,15 @@
 # cli-package_maker
-########################################################################
+##########################################################
                           DECRIPTION
-########################################################################
+##########################################################
 
 make a .deb of any programme you want to transport
 
 cli-package_maker will create a file.deb of any programme you want to install/transport in any UNIX plateforme.
 
-########################################################################
+##########################################################
                           How TO USE
-########################################################################
+##########################################################
 to use this proced since:
 
 1- run the programme whith this arguements:
@@ -30,9 +30,9 @@ to install them run the following command:
  $ my_script.sh
  so if you doesn't want .sh in your command remember to remove the .sh from the name of your script before running cli-package_maker.
 
-########################################################################
+###########################################################
                           OPTION EXPLAINED
-########################################################################
+###########################################################
 
 Package : is the name of your futur file.deb
 Version : is the number of your version, if the version of your package is older than systeme package version the new version will replace the older
