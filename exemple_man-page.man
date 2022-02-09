@@ -1,0 +1,58 @@
+.\" DO NOT MODIFY THIS FILE!  It was created by schnellbach
+.TH manpage_exemple "1" "March 2020"
+.SH NAME
+	manpage_exemple \- juste un exemple de page man cree manuellement
+
+.SH SYNTAXE
+.B manpage_exemple [\foption1\ Option2\fR,\fIOption3\fR] ... [\fIOptionN(S)\fR]...
+.br
+.SH DESCRIPTION
+.PP
+Cette Page de manuel est une pseudo-man page.
+.PP
+Une page de manuel possede une syntaxe tres particuliere : 
+.TP
+\fB\-arg1\fR,\fB--arguement1\fR
+Ce que fait l arguement1
+.TP
+\fB\-arg2\fR,\fB--arguement2\fR
+Ce que fait l arguement2
+.TP
+.B 	par default -arg1 est automatiquement utilisee.
+
+.SH OPTIONS
+.PP
+Nous voici aux options de cette pseudo-Page de pseudo-manuel de man.
+.TP
+\fB\-r\fR, \fB\-\-recursively\fR 
+recursivement, en general l option -r permet de faire quelque chose recursivement.
+.TP
+\fB\-c\fR,\fB\-\-complete\fR
+en regle generale les options ont toujours un racourci -c et le terme complet avec deux -\- comme ici -\-complete
+
+
+.PP
+.TP
+\fB Exit status: \fR
+.TP
+\fB\-0\fR
+si tout s est bien passee,
+.TP
+\fB\-1\fR
+if s il y a eu un probleme (e.g., le programme mange un chilli con carnee et a oubliee de finir), fin des truc du genre.
+
+.SH EXAMPLES D UTILISATION
+.TP
+	Man [\ \fImanpage_exemple\fR\ ] (default command)
+.TP
+	man manpage_exemple \/usr\/ domotrix\/ \-c \-\-recursively
+
+
+
+.SH AUTHOR
+.PP
+Written  by  \fB Schnellbach Tanguy \fR
+
+.SH SEE ALSO
+.PP
+La ocumentation complete est dans le fichier 'README.txt' du meme pacquet ou sur 'https://domotrix.fr'. 
